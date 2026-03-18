@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-A simple Python project demonstrating Label Encoding on categorical data using scikit-learn.
+A simple machine learning project demonstrating Label Encoding on categorical data using scikit-learn.
 
 ---
 
